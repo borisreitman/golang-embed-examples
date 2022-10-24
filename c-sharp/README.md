@@ -31,7 +31,7 @@ Then run:
 Build demo C# app that uses the DLL
 
 ```
-> cd c-sharp-example
+> cd c-sharp
 > csc @build.rsp
 ```
 
