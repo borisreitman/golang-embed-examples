@@ -20,8 +20,10 @@ By now both `gcc` and `go` commands should be in your PATH, added automatically 
 
 Then run:
 
+```
 > cd go-dll
 > go build -o shared.dll -buildmode=c-shared
+```
 
 
 ## C# Demo app
