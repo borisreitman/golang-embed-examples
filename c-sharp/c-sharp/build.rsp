@@ -1,0 +1,4 @@
+/target:exe
+/out:helloworld.exe
+/nologo
+HelloWorld.cs
